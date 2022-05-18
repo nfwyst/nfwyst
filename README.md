@@ -113,8 +113,3 @@
   <a href="https://medium.com/@nfwyst" target="_blank"><img alt="Medium"
       src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
-------------
-<p align="center"><img src="https://github.com/nfwyst/nfwyst/workflows/README%20build/badge.svg" /> <img alt="Stars"
-    src="https://img.shields.io/github/stars/nfwyst/nfwyst?style=flat-square&labelColor=343b41" /> <img alt="Forks"
-    src="https://img.shields.io/github/forks/nfwyst/nfwyst?style=flat-square&labelColor=343b41" /></p>
