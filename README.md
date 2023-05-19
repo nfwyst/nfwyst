@@ -34,6 +34,8 @@
   <img alt="ReactNative" src="https://img.shields.io/badge/-ReactNative-43853d?style=flat-square&logo=ReactNative&logoColor=white" />
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-43853d?style=flat-square&logo=Neovim&logoColor=white" />
   <img alt="ReactQuery" src="https://img.shields.io/badge/-ReactQuery-43853d?style=flat-square&logo=ReactQuery&logoColor=white" />
+  <img alt="Lua" src="https://img.shields.io/badge/-Lua-43853d?style=flat-square&logo=Lua&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-43853d?style=flat-square&logo=C&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
