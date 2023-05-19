@@ -37,51 +37,6 @@
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-43853d?style=flat-square&logo=Lua&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-43853d?style=flat-square&logo=C&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/nfwyst/effect"><b>effects</b></a>
-      </td>
-      <td><img alt="Stars"
-          src="https://img.shields.io/github/stars/nfwyst/effect?style=flat-square&labelColor=343b41" />
-      </td>
-      <td><img alt="Forks"
-          src="https://img.shields.io/github/forks/nfwyst/effect?style=flat-square&labelColor=343b41" />
-      </td>
-      <td><img alt="Issues"
-          src="https://img.shields.io/github/issues/nfwyst/effect?style=flat-square&labelColor=343b41" />
-      </td>
-      <td><img alt="Pull Requests"
-          src="https://img.shields.io/github/issues-pr/nfwyst/effect?style=flat-square&labelColor=343b41" />
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nfwyst/blogs"><b>blogs</b></a></td>
-      <td><img alt="Stars"
-          src="https://img.shields.io/github/stars/nfwyst/blogs?style=flat-square&labelColor=343b41" />
-      </td>
-      <td><img alt="Forks"
-          src="https://img.shields.io/github/forks/nfwyst/blogs?style=flat-square&labelColor=343b41" />
-      </td>
-      <td><img alt="Issues"
-          src="https://img.shields.io/github/issues/nfwyst/blogs?style=flat-square&labelColor=343b41" />
-      </td>
-      <td><img alt="Pull Requests"
-          src="https://img.shields.io/github/issues-pr/nfwyst/blogs?style=flat-square&labelColor=343b41" />
-      </td>
-    </tr>
-  </tbody>
-</table>
 <h3>Where to find me</h3>
 <p>
   <a href="https://t.me/lishengma" target="_blank"><img alt="Telegram"
