@@ -87,4 +87,6 @@
       src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://medium.com/@nfwyst" target="_blank"><img alt="Medium"
       src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://t.me/lishengma" target="_blank"><img alt="Telegram"
+      src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
