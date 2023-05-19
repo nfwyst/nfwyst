@@ -60,21 +60,6 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/quanxiang-cloud/one-for-all"><b>one-for-all</b></a></td>
-      <td><img alt="Stars"
-          src="https://img.shields.io/github/stars/quanxiang-cloud/one-for-all?style=flat-square&labelColor=343b41" />
-      </td>
-      <td><img alt="Forks"
-          src="https://img.shields.io/github/forks/quanxiang-cloud/one-for-all?style=flat-square&labelColor=343b41" />
-      </td>
-      <td><img alt="Issues"
-          src="https://img.shields.io/github/issues/quanxiang-cloud/one-for-all?style=flat-square&labelColor=343b41" />
-      </td>
-      <td><img alt="Pull Requests"
-          src="https://img.shields.io/github/issues-pr/quanxiang-cloud/one-for-all?style=flat-square&labelColor=343b41" />
-      </td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/nfwyst/blogs"><b>blogs</b></a></td>
       <td><img alt="Stars"
           src="https://img.shields.io/github/stars/nfwyst/blogs?style=flat-square&labelColor=343b41" />
@@ -91,20 +76,6 @@
     </tr>
   </tbody>
 </table>
-<h3>My latest posts</h3>
-<ul>
-  <li><a
-      href="https://github.com/nfwyst/Blog/issues/13"><b><img
-          src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png"
-          width="20" alt="new" />Node.js 设计模式-行为模式-策略模式</b></a><br /><i>策略模式在nodejs中的应用!.</i></li>
-  <li><a
-      href="https://github.com/nfwyst/Blog/issues/12"><b><img
-          src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png"
-          width="20" alt="new" />Node.js 设计模式-行为模式-观察者模式</b></a><br /><i>观察者模式在nodejs中的应用</i></li>
-  <li><a href="https://nfwyst.js.org/2018/06/28/ramda/"><b><img
-          src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png"
-          width="20" alt="new" />ramda 之函数式编程</b></a><br /><i>ramda 函数式编程库的应用</i></li>
-</ul>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/nfwyst" target="_blank"><img alt="Github"
       src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
