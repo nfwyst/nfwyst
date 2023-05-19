@@ -30,11 +30,10 @@
   <img alt="MongoDB"
     src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=ChatGPT&logoColor=white" />
-  <img alt="ReactNative" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=ReactNative&logoColor=white" />
-  <img alt="ReactNative" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=ReactNative&logoColor=white" />
-  <img alt="Neovim" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Neovim&logoColor=white" />
-  <img alt="ReactQuery" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=ReactQuery&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-43853d?style=flat-square&logo=ChatGPT&logoColor=white" />
+  <img alt="ReactNative" src="https://img.shields.io/badge/-ReactNative-43853d?style=flat-square&logo=ReactNative&logoColor=white" />
+  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-43853d?style=flat-square&logo=Neovim&logoColor=white" />
+  <img alt="ReactQuery" src="https://img.shields.io/badge/-ReactQuery-43853d?style=flat-square&logo=ReactQuery&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
