@@ -1,5 +1,5 @@
 <h1>
-  Meeting is a kind of predestination.
+  Never forget why you start
 </h1>
 
 <p>Welcome to my page! </br> I'm nfwyst, front end developer from <img
