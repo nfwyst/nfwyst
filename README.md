@@ -36,6 +36,7 @@
   <img alt="ReactQuery" src="https://img.shields.io/badge/-ReactQuery-43853d?style=flat-square&logo=ReactQuery&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-43853d?style=flat-square&logo=Lua&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-43853d?style=flat-square&logo=C&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-43853d?style=flat-square&logo=Go&logoColor=white" />
 </p>
 <h3>Where to find me</h3>
 <p>
